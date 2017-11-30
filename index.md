@@ -1,5 +1,5 @@
 ---
-title: #Batch::Home
+title: SharpBatch>>Home
 ---
 SharpBatch is a framework who help you to create and manage batch process.
 
