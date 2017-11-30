@@ -7,3 +7,6 @@ jailed: false
 theme: jekyll-theme-leap-day
 gfm_quirks: paragraph_end
 title: SharpBatch
+relative_links:
+  enabled:     true
+  collections: false
